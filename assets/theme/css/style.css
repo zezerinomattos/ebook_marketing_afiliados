@@ -963,3 +963,41 @@ blockquote {
 	top: 0;
 	left: -2400px;
 }
+
+.custom-btn {
+  background-color: #FFF;
+  color: #EB5EA3;
+  border: 1px solid #EB5EA3;
+}
+
+.custom-btn:hover{
+  opacity: 0.7;
+  color: #EB5EA3;
+}
+
+.custom-section {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.custom-new-btn {
+  background-color: #EB5EA3;
+  color: #FFFFFF;
+  border: 1px solid #EB5EA3;
+}
+
+.custom-new-btn:hover {
+  opacity: 0.7;
+  color: #FFFFFF;
+}
+
+.custom-subtitle {
+  color: #EB5EA3;
+  font-weight: bold;
+}
+
+.custom-new-subtitle {
+  color: #F8F8F8;
+  font-weight: bold;
+}
